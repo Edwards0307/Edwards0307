@@ -5,8 +5,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Systems+Engineer;Web+Full+Stack+Developer;Passionate+about+technology;Active+learner+%2F+Research;Love+to+learn+new+stuffs." alt="Typing SVG" /></a>
 <p/>
 
+<p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=Edwards0307&label=Profile%20views&color=0047AB&style=plastic?" alt="Edwards0307" height=25px, width=160px/> 
-
+<p/>
+	
 <br>
 
 	
