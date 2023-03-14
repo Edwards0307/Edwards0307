@@ -26,6 +26,8 @@
 ✉️ &nbsp;You can email me at edwards.ardila03@gmail.com I'll try to reply as soon as I can.\
 📄 &nbsp;Please take a look at my resume for more details about me. I'm open to comments and suggestions!
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 <br>
 
 
