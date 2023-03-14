@@ -15,9 +15,9 @@
 	
 <br>
 
-<div>	
+<div>
+ <div>
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm a system engineer and graduated recently as a full stack web developer from Soy Henry's bootcamp.\
 🌱 &nbsp;I'm on the right track to learn more about artificial intelligence, system design, and cloud architecture.\
@@ -25,9 +25,12 @@
 💬 &nbsp;Feel free to contact me for consulting and volunteering, or just for an interesting discussion.\
 ✉️ &nbsp;You can email me at edwards.ardila03@gmail.com I'll try to reply as soon as I can.\
 📄 &nbsp;Please take a look at my resume for more details about me. I'm open to comments and suggestions!
-
+<div/>
+ <div>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 <div/>
+ <div/>
+	
 <br>
 
 
