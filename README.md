@@ -7,6 +7,10 @@
 
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=Edwards0307&label=Profile%20views&color=0047AB&style=plastic?" alt="Edwards0307" height=25px, width=160px/> 
+<img src="https://img.shields.io/badge/Age-26-blue" />
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
 <p/>
 	
 <br>
