@@ -24,7 +24,7 @@
 ✍️ &nbsp;I dedicate my free time to research, learn new things and other activities\
 💬 &nbsp;Feel free to contact me for consulting and volunteering, or just for an interesting discussion.\
 ✉️ &nbsp;You can email me at edwards.ardila03@gmail.com I'll try to reply as soon as I can.\
-📄 &nbsp;Please take a look at my resume for more details about me. I am open to comments and suggestions!
+📄 &nbsp;Please take a look at my resume for more details about me. I'm open to comments and suggestions!
 
 <br>
 
