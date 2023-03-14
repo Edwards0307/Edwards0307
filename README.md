@@ -63,19 +63,6 @@
 
 <br>
 
-  <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-<img src="https://i.imgur.com/x1KbuCq.gif">
-  
-  
-  
-  
-  <br>
-  <p align="center">
-  <img src="https://github.com/Edwards0307/Edwards0307/blob/main/github-contribution-grid-snake-dark.svg" alt="snake"></center>
-</p>
-
-
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 <p align="left">
@@ -98,3 +85,9 @@
 
 <div align='center'>
 <div align='left'>
+
+	## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
