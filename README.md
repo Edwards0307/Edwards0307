@@ -86,7 +86,7 @@
 <div align='center'>
 <div align='left'>
 	
-	</br></br>
+
 	
 ## 🐍 A Snake Eating my Contributions Graph
 	
