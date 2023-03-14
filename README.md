@@ -21,7 +21,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm a system engineer and graduated recently as a full stack web developer from Soy Henry's bootcamp.\
 🌱 &nbsp;I'm on the right track to learn more about artificial intelligence, system design, and cloud architecture.\
-✍️ &nbsp;In my free time, I dedicate myself to research and learn new things / side activities.\
+✍️ &nbsp;I dedicate my free time to research, learn new things and other activities\
 💬 &nbsp;Feel free to contact me for consulting and volunteering, or just for an interesting discussion.\
 ✉️ &nbsp;You can email me at edwards.ardila03@gmail.com I'll try to reply as soon as I can.\
 📄 &nbsp;Please take a look at my resume for more details about me. I am open to comments and suggestions!
