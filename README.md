@@ -37,9 +37,9 @@
 
 <p align="center">
 <a href="https://github.com/Edwards0307">
-  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Edwards0307&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Edwards0307&layout=compact&langs_count=8&theme=algolia"/>
-<img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=Edwards0307&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Edwards0307&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Edwards0307&layout=compact&langs_count=8&theme=algolia"/>
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Edwards0307&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" />
 	
 </a>
 </p>
