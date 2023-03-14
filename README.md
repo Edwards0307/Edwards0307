@@ -85,9 +85,12 @@
 
 <div align='center'>
 <div align='left'>
-
-	## 🐍 A Snake Eating my Contributions Graph
+	
+	</br></br>
+	
+## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
-	<img src = "https://github.com/Edwards0307/Edwards0307/blob/main/github-contribution-grid-snake-dark.svg" alt = "Snake Game"/>
+	<img src = "https://github.com/Edwards0307/Edwards0307/blob/main/github-contribution-grid-snake-dark.svg?" alt = "Snake Game"/>
 </p>
+
