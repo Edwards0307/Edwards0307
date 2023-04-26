@@ -65,7 +65,7 @@
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/edwards-alexis-ardila-martinez-042980149/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/edwards-alexis-ardila-martinez-desarrollador-full-stack/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
   <a href="https://www.facebook.com/profile.php?id=100077125203507" target="blank"><img align="center"
