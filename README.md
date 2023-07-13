@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hola, mi nombre es Edwards Ardila </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Systems+Engineer;Web+Full+Stack+Developer;Passionate+about+technology;Active+learner+%2F+Research;Love+to+learn+new+stuffs." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Ingeniero+de+Sistemas;Desarrollador+Full+Stack;Apasionado+por+la+tecnologia;Aprendizaje+continuo+%2F+Autodidacta;Me+encanta+aprender+nuevas+tegnologias." alt="Typing SVG" /></a>
 <p/>
 
 <p align="center">
