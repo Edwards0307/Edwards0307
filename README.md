@@ -5,11 +5,11 @@
 <p/>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Edwards0307&label=Profile%20views&color=0047AB&style=plastic?" alt="Edwards0307" height=20px, width=100px/>
+<img src="https://komarev.com/ghpvc/?username=Edwards0307&label=Visitas%20Pefil&color=0047AB&style=plastic?" alt="Edwards0307" height=20px, width=100px/>
 <img src="https://img.shields.io/badge/Edad-33-blue" />
-  <img src="https://img.shields.io/badge/Enfoque-Desarrollador%20Full%20Stack" />
+  <img src="https://img.shields.io/badge/Enfoque-Desarrollador%20Full-Stack" />
   <img src="https://img.shields.io/badge/Pais-Colombia-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-brightgreen" />
+  <img src="https://img.shields.io/badge/Idiomas-English%20%26%20Spanish-brightgreen" />
 <p/>
 
 <br>
