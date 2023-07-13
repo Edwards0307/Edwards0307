@@ -5,26 +5,27 @@
 <p/>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Edwards0307&label=Visitas%20Pefil&color=0047AB&style=plastic?" alt="Edwards0307" height=20px, width=100px/>
-<img src="https://img.shields.io/badge/Edad-33-blue" />
-  <img src="https://img.shields.io/badge/Enfoque-Desarrollador%20Full-Stack" />
+  <img src="https://komarev.com/ghpvc/?username=Edwards0307&label=Visitas%20Perfil&color=0047AB&style=plastic%3F" alt="Edwards0307" height="20px" width="100px" />
+  <img src="https://img.shields.io/badge/Edad-33-blue" />
+  <img src="https://img.shields.io/badge/Enfoque-Desarrollador%20Full--Stack" />
   <img src="https://img.shields.io/badge/Pais-Colombia-success" />
   <img src="https://img.shields.io/badge/Idiomas-English%20%26%20Spanish-brightgreen" />
-<p/>
+</p>
+
 
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
 
 <p><img align="right" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"  width = 50px/></p>
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm a system engineer and graduated recently as a full stack web developer from Soy Henry's bootcamp.\
-🌱 &nbsp;I'm on the right track to learn more about artificial intelligence, system design, and cloud architecture.\
-✍️ &nbsp;I dedicate my free time to research, learn new things and other activities\
-💬 &nbsp;Feel free to contact me for consulting and volunteering, or just for an interesting discussion.\
-✉️ &nbsp;You can email me at edwards.ardila03@gmail.com I'll try to reply as soon as I can.\
-📄 &nbsp;Please take a look at my resume for more details about me. I'm open to comments and suggestions!
+💡 &nbsp; Me gusta explorar nuevas tecnologías y desarrollar soluciones de software.\
+🎓 &nbsp;Soy ingeniero de sistemas y recientemente me gradué como desarrollador web full stack en el bootcamp de Soy Henry.\
+🌱 &nbsp;Estoy enfocado en ampliar mis conocimientos como desarrollador full stack, explorando nuevas tecnologías, mejorando mis habilidades en el front-end y back-end, y perfeccionando mi capacidad para crear aplicaciones web completas.\
+✍️ &nbsp;Dedico mi tiempo libre a investigar, aprender cosas nuevas y realizar otras actividades.\
+💬 &nbsp; No dudes en contactarme para consultorías y voluntariados, o simplemente para tener una interesante discusión.\
+✉️ &nbsp;Puedes enviarme un correo electrónico a edwards.ardila03@gmail.com e intentaré responder lo antes posible.\
+📄 &nbsp;Por favor, echa un vistazo a mi currículum para obtener más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!
 
 <br>
 
