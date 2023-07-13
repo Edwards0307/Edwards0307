@@ -7,10 +7,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Edwards0307&label=Visitas%20Perfil&color=0047AB&style=plastic%3F" alt="Edwards0307" height="20px" width="100px" />
   <img src="https://img.shields.io/badge/Edad-33-blue" />
-  <img src="https://img.shields.io/badge/Enfoque-Desarrollador%20Full--Stack" />
+  <img src="https://img.shields.io/badge/Enfoque-Desarrollador%20Full--Stack-blue" />
   <img src="https://img.shields.io/badge/Pais-Colombia-success" />
   <img src="https://img.shields.io/badge/Idiomas-English%20%26%20Spanish-brightgreen" />
 </p>
+
 
 
 <br>
